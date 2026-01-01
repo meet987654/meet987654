@@ -1,68 +1,123 @@
-# 👨‍💻 Meet D Prajapati
-### **Full-Stack Developer | TypeScript & Next.js Specialist**
+# Meet D Prajapati
 
-<p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:meetprajapatid0207@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+**Full-Stack Developer | TypeScript • Next.js • Node.js**
+
+I build production-grade web systems with a strong focus on **type safety, scalability, and performance**.  
+My work sits at the intersection of clean architecture, real-world problem solving, and modern web tooling.
+
+Currently focused on **TypeScript-first backend systems**, **real-time applications**, and **database optimization**.
 
 ---
 
-## 🚀 About Me
+## What I Do
 
-I am a **Full-Stack Developer** specializing in **TypeScript** and **Next.js**, with hands-on experience building scalable, production-grade **MERN** applications.  
-I enjoy solving complex backend problems, designing clean system architectures, and optimizing database performance.
-
-- 🛠️ Built an automated **Inbound Logistics System** at *Bee Pee Coatings*, reducing manual verification time by **60%**
-- ⚡ Optimized **MongoDB** queries using aggregation pipelines, improving response times by **40%**
-- 🔐 Experienced in secure, role-based **JWT authentication** and type-safe APIs using **tRPC** and **Prisma**
-- 🎓 **B.Tech in Computer Science & Design** (GCET) — **8.6 CGPA**
+- Design and develop **scalable full-stack applications**
+- Build **type-safe APIs** using tRPC, Prisma, and PostgreSQL
+- Optimize backend performance through **indexing, aggregation, and schema design**
+- Implement **secure authentication & role-based access control**
+- Ship **production-ready systems** using Docker
 
 ---
 
-## 🛠️ Tech Stack
+## Selected Projects
 
-```json
-{
-  "languages": ["TypeScript", "JavaScript", "Python", "C++", "HTML5", "CSS3"],
-  "frontend": ["Next.js", "React.js", "Tailwind CSS", "Recoil"],
-  "backend": ["Node.js", "Express.js", "WebSockets", "tRPC", "Prisma ORM"],
-  "database": ["PostgreSQL", "MongoDB", "MySQL"],
-  "devops": ["Docker", "Git", "GitHub Actions", "Postman", "Multer"]
-}
-💼 Selected Projects
-🧠 AI Quiz Engine
-Adaptive testing platform powered by the Gemini AI API
+### AI Quiz Application
+**Node.js • Express • MongoDB • Docker**
 
-Tech: Node.js, Express, MongoDB, Docker
+An adaptive quiz platform powered by AI.
 
-Highlights: Reduced API latency by 40% through indexing and aggregation pipelines
+- AI-driven question generation using Gemini API  
+- MongoDB aggregation pipelines & indexing (40% faster responses)
+- JWT-based authentication
+- Fully containerized deployment
 
-⚡ SuperTeam Connect
-Real-time collaboration and messaging platform
+🔗 Repo: https://github.com/meet987654/AI-Quizzer
 
-Tech: React.js, Node.js, PostgreSQL, WebSockets
+---
 
-Highlights: Implemented real-time chat with role-based JWT access control
+### Second Brain App
+**TypeScript • React • Node.js • MongoDB**
 
-📂 Second Brain
-Scalable content management platform focused on type safety
+A personal knowledge management system.
 
-Tech: TypeScript, React, Node.js, MongoDB
+- Supports 5 different content types with strict type safety
+- Custom UI component library built with TypeScript interfaces
+- Secure authentication with JWT & bcrypt
+- File uploads using Multer
 
-Highlights: Built reusable UI components with fully type-safe interfaces
+🔗 Repo: https://github.com/meet987654/Brainly
 
-📊 GitHub Stats
-<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" /> </p>
-📬 Contact
-📧 Email: meetprajapatid0207@gmail.com
+---
 
-📍 Location: Surat, Gujarat, India
+### SuperTeam Connect
+**React • Node.js • PostgreSQL • WebSockets**
 
-📜 Certification: IBM Full Stack Software Developer Professional Certificate
+A real-time collaboration and communication platform.
 
-<p align="center"> <i>"Optimizing one line of code at a time."</i> </p> 
+- WebSocket-based real-time messaging & notifications
+- Role-based JWT authentication
+- Optimized REST APIs with database indexing
+
+🔗 Repo: https://github.com/meet987654/StudentConnect
+
+---
+
+## Professional Experience
+
+### Freelance Software Developer  
+**Bee Pee Coatings Pvt. Ltd. (Berger Paints Subsidiary)**  
+*Aug 2025 – Oct 2025*
+
+- Built an automated **Inbound Logistics System** reducing manual checks by 60%
+- Implemented robust validation algorithms for supply-chain data
+- Designed a real-time error detection system handling 100+ vehicle entries/day
+
+---
+
+### Software Developer Intern  
+**Unified Mentor (Remote)**  
+*Feb 2025 – Apr 2025*
+
+- Developed type-safe APIs using **tRPC + Prisma**
+- Designed optimized PostgreSQL schemas with indexing
+- Implemented secure authentication and Docker-based deployments
+
+---
+
+## Tech Stack
+
+**Languages**  
+TypeScript, JavaScript, Python, C++
+
+**Frontend**  
+Next.js, React.js, Recoil, Tailwind CSS
+
+**Backend & APIs**  
+Node.js, Express.js, tRPC, WebSockets, NextAuth
+
+**Databases**  
+PostgreSQL, MongoDB, MySQL
+
+**Tools & DevOps**  
+Git, GitHub, Docker, Postman, Prisma, Multer
+
+---
+
+## Education
+
+**B.Tech in Computer Science & Design**  
+G H Patel College of Engineering & Technology  
+CGPA: 8.6 / 10
+
+---
+
+## Connect With Me
+
+- GitHub: https://github.com/meet987654  
+- LinkedIn: https://linkedin.com/in/meet-prajapati-7babb0228  
+- Portfolio: https://meetsportfolio.framer.website  
+- Email: mailto:meetprajapatid0207@gmail.com
+
+---
+
+> I enjoy building systems that are simple to use, hard to break, and easy to scale.
