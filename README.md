@@ -2,23 +2,30 @@
 ### **Full-Stack Developer | TypeScript & Next.js Specialist**
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:meetprajapatid0207@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:meetprajapatid0207@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### 🚀 About Me
-[cite_start]I am a Full-Stack Developer specializing in the **TypeScript** and **Next.js**[cite: 6]. [cite_start]I have a strong foundation in building scalable **MERN** applications and delivering optimized, production-ready systems[cite: 6]. [cite_start]I thrive on solving complex backend challenges and improving database performance[cite: 6].
+## 🚀 About Me
 
-- [cite_start]🛠️ Engineered an automated **Inbound Logistics System** at Bee Pee Coatings, reducing manual verification time by **60%**[cite: 11].
-- [cite_start]⚡ Optimized **MongoDB** queries with aggregation pipelines to boost response times by **40%**.
-- [cite_start]🔐 Expert in secure, role-based **JWT** authentication and type-safe API development using **tRPC** and **Prisma**[cite: 18, 37].
-- [cite_start]🎓 B.Tech in **Computer Science and Design** from GCET with a **8.6 CGPA**[cite: 46, 47].
+I am a **Full-Stack Developer** specializing in **TypeScript** and **Next.js**, with hands-on experience building scalable, production-grade **MERN** applications.  
+I enjoy solving complex backend problems, designing clean system architectures, and optimizing database performance.
+
+- 🛠️ Built an automated **Inbound Logistics System** at *Bee Pee Coatings*, reducing manual verification time by **60%**
+- ⚡ Optimized **MongoDB** queries using aggregation pipelines, improving response times by **40%**
+- 🔐 Experienced in secure, role-based **JWT authentication** and type-safe APIs using **tRPC** and **Prisma**
+- 🎓 **B.Tech in Computer Science & Design** (GCET) — **8.6 CGPA**
 
 ---
 
-### 🛠️ Technical Arsenal
+## 🛠️ Tech Stack
+
 ```json
 {
   "languages": ["TypeScript", "JavaScript", "Python", "C++", "HTML5", "CSS3"],
@@ -27,3 +34,35 @@
   "database": ["PostgreSQL", "MongoDB", "MySQL"],
   "devops": ["Docker", "Git", "GitHub Actions", "Postman", "Multer"]
 }
+💼 Selected Projects
+🧠 AI Quiz Engine
+Adaptive testing platform powered by the Gemini AI API
+
+Tech: Node.js, Express, MongoDB, Docker
+
+Highlights: Reduced API latency by 40% through indexing and aggregation pipelines
+
+⚡ SuperTeam Connect
+Real-time collaboration and messaging platform
+
+Tech: React.js, Node.js, PostgreSQL, WebSockets
+
+Highlights: Implemented real-time chat with role-based JWT access control
+
+📂 Second Brain
+Scalable content management platform focused on type safety
+
+Tech: TypeScript, React, Node.js, MongoDB
+
+Highlights: Built reusable UI components with fully type-safe interfaces
+
+📊 GitHub Stats
+<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" /> </p>
+📬 Contact
+📧 Email: meetprajapatid0207@gmail.com
+
+📍 Location: Surat, Gujarat, India
+
+📜 Certification: IBM Full Stack Software Developer Professional Certificate
+
+<p align="center"> <i>"Optimizing one line of code at a time."</i> </p> 
