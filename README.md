@@ -2,7 +2,8 @@
 
 "I build systems that are intuitive to use, resilient in production, and designed to scale."
 
- <img src="https://github.com/user-attachments/assets/c5695aae-e70f-438c-b511-cc461b6956c0">
+<img width="480" height="185" alt="astronaut " src="https://github.com/user-attachments/assets/9bec3687-bfa2-4779-a433-8b357768382f" />
+
 
 TypeScript · Node.js · Next.js · Python · AI · WebRTC
 
