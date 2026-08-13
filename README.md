@@ -2,7 +2,7 @@
 
 "I build systems that are intuitive to use, resilient in production, and designed to scale."
 
-<img width="600" height="264" alt="Animation Render GIF by 7ui_Pay" src="https://github.com/user-attachments/assets/bf5a61bb-1468-46ce-8ea7-0fc5be92dbbf" />
+<img width=100% height=60% alt="Animation Render GIF by 7ui_Pay" src="https://github.com/user-attachments/assets/bf5a61bb-1468-46ce-8ea7-0fc5be92dbbf" />
 
 
 TypeScript · Node.js · Next js · Python · AI · WebRTC
