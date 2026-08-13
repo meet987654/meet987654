@@ -2,7 +2,8 @@
 
 "I build systems that are intuitive to use, resilient in production, and designed to scale."
 
-<img width="1000" height="200" alt="Animation This Is Fine GIF by braindead gif" src="https://github.com/user-attachments/assets/e2975a93-2606-477e-a5c6-ff8012bf353e" />
+<img width="1000" height="300" alt="banner2_1000x300" src="https://github.com/user-attachments/assets/5863439e-bba7-411f-bc3d-2775837b14ac" />
+
 
 TypeScript · Node.js · Next.js · Python · AI · WebRTC
 
