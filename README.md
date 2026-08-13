@@ -5,6 +5,6 @@
 <img width="480" height="264" alt="Animation Render GIF by 7ui_Pay" src="https://github.com/user-attachments/assets/bf5a61bb-1468-46ce-8ea7-0fc5be92dbbf" />
 
 
-TypeScript · Node.js · React · Python · AI · WebRTC
+TypeScript · Node.js · Next js · Python · AI · WebRTC
 
 [Portfolio](https://meetsportfolio.framer.website) · [LinkedIn](https://linkedin.com/in/meet-prajapati-7babb0228) · [GitHub](https://github.com/meet987654) · [meetprajapatid0207@gmail.com](mailto:meetprajapatid0207@gmail.com)
