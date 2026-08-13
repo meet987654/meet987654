@@ -7,7 +7,8 @@ My work sits at the intersection of clean architecture, real-world problem solvi
 
 Currently focused on **TypeScript-first backend systems**, **real-time applications**, and **database optimization**.
 
----
+---<img width="360" height="245" alt="Pixel Space GIF by Smolverse" src="https://github.com/user-attachments/assets/be960ce7-8802-4fec-839c-69e2e15d778b" />
+
 
 ## What I Do
 
